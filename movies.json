@@ -68,5 +68,47 @@
             "likes": 812,
             "dislikes": 101,
             "posterindex": 0
+      },
+            {
+            "title": "Whiplash",
+            "iscore": 8.5,
+            "rating": "R",
+            "runtime": 106,
+            "released": [2014, 1, 16],
+            "country": "USA",
+            "posters": ["img/whiplash2.jpg", "img/whiplash.jpg", "img/whiplash3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt2582802/?ref_=ext_shr_lnk",
+            "website": "https://www.sonypictures.com/movies/whiplash",
+            "likes": 748,
+            "dislikes": 116,
+            "posterindex": 0
+      },
+            {
+            "title": "Goodfellas",
+            "iscore": 8.7,
+            "rating": "R",
+            "runtime": 145,
+            "released": [1990, 9, 9],
+            "country": "USA",
+            "posters": ["img/goodfellas.jpg"],
+            "imdb": "https://www.imdb.com/title/tt0099685/?ref_=ext_shr_lnk",
+            "website": "https://www.warnerbros.com/movies/goodfellas",
+            "likes": 923,
+            "dislikes": 87,
+            "posterindex": 0
+      },
+            {
+            "title": "A Silent Voice: The Movie",
+            "iscore": 8.2,
+            "rating": "Not Rated",
+            "runtime": 130,
+            "released": [2016, 9, 17],
+            "country": "JAPAN",
+            "posters": ["img/ASV.jpg", "img/ASV2.jpg", "img/ASV3.jpg"],
+            "imdb": "https://www.imdb.com/title/tt5323662/?ref_=ext_shr_lnk",
+            "website": "https://gkids.com/films/a-silent-voice/",
+            "likes": 300,
+            "dislikes": 0,
+            "posterindex": 0
       }
 ]
