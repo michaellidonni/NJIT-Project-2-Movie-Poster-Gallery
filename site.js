@@ -36,7 +36,6 @@ const vue_app = Vue.createApp({
                   title: '',
                   owner: 'michaellidonni',
                   github: 'https://github.com/michaellidonni'
-
                   /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
 
             }
