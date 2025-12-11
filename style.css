@@ -29,7 +29,6 @@ body {
 
 .main {
     padding: 40px 0;
-    min-height: calc(100vh - 200px);
 }
 
 .thumbnail {
